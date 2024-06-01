@@ -4,6 +4,7 @@
   "description": "An app that identifies and keep track of a customer's identity across multiple purchases.",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
